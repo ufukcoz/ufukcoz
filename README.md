@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://bizifest.com/blog/bir-yaz%C4%B1l%C4%B1mc%C4%B1-ne-kadar-ve-neden-siber-g%C3%BCvenlik-%C3%B6%C4%9F-d4jvokgigp3c73a0quo0/
+
 
 <h1 align="center">Hi 👋, I'm Ufuk Çöz</h1>
 <h3 align="center">A software student from Turkey</h3>
