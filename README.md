@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Cyber%20Security%20%26%20Software&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Python%20%7C%20Offensive%20Security&descAlignY=55&descSize=20&fontColor=ffffff)
+
+
+[![MasterHead](https://bizifest.com/blog/bir-yaz%C4%B1l%C4%B1mc%C4%B1-ne-kadar-ve-neden-siber-g%C3%BCvenlik-%C3%B6%C4%9F-d4jvokgigp3c73a0quo0/
 
 <h1 align="center">Hi 👋, I'm Ufuk Çöz</h1>
 <h3 align="center">A software student from Turkey</h3>
